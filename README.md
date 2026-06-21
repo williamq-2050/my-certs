@@ -10,7 +10,7 @@ This repository serves as a centralized portfolio for my continuous professional
 *   **Implementing a Data Management Strategy for an ASP.NET Core Microservices Architecture** 
     *   *Completed:* April 9, 2025 | [View Certificate](./pluralsight/5ac62b26-cf49-40a0-815e-a063fc2c1249.pdf)
 *   **Packages, Macros, and Performance Optimization in dbt** 
-    *   *Completed:* June 8, 2025 | [View Certificate](#)
+    *   *Completed:* June 8, 2025 | [View Certificate](./pluralsight/78af0b99-5cc9-4435-bfcc-199e171e0644.pdf)
 *   **AWS Certified Data Engineer - Associate (DEA-C01): Data Ingestion and Transformation** 
     *   *Completed:* January 24, 2026 | [View Certificate](./pluralsight/0bdb38e5-31b9-4fa2-961a-dee80fb4b9cb.pdf)
 *   **AWS Certified Data Engineer - Associate (DEA-C01): Data Security and Governance** 
