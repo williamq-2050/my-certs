@@ -39,6 +39,21 @@ This repository serves as a centralized portfolio for my continuous professional
     *   *Completed:* August 24, 2025 | [View Certificate](./pluralsight/d0e79712-459b-4400-8d6a-ddac7a1a56a7.pdf)
 *   **Amazon Athena Deep Dive** 
     *   *Completed:* August 17, 2025 | [View Certificate](./pluralsight/29a1e0c0-3956-426f-a3c9-dd5d2edff646.pdf)
+*   **Development Environments and Package Management in Python 3** 
+    *   *Completed:* May 31, 2025 | [View Certificate](./pluralsight/d11cbf83-a15f-4130-b957-61bff3389366.pdf)
+*   **Kafka Connect Fundamentals** 
+    *   *Completed:* April 21, 2025 | [View Certificate](./pluralsight/2a1e7bd6-9bf5-4bf1-b786-be3a4d95c096.pdf)
+*   **Gherkin Fundamentals** 
+    *   *Completed:* June 23, 2025 | [View Certificate](./pluralsight/c3cc4c45-20ac-429c-82da-715892d1307b.pdf)
+*   **Migrating Databases with AWS Database Migration Service** 
+    *   *Completed:* July 12, 2025 | [View Certificate](./pluralsight/8bca1baa-829a-4b00-81a6-844b26089a0a.pdf)
+*   **Database Connections and Data Extraction with Python** 
+    *   *Completed:* June 21, 2025 | [View Certificate](./pluralsight/ce6e7b96-7f33-49f0-980f-1974e0d07bdb.pdf) 
+*   **Advanced AI-assisted Development** 
+    *   *Completed:* April 22, 2026 | [View Certificate](./pluralsight/abc09662-ba46-4266-9dd1-40ebc4d4d67b.pdf)
+*   **Introduction to AWS Fargate** 
+    *   *Completed:* September 28, 2025 | [View Certificate](./pluralsight/e7c01825-1de0-49bf-a6e4-b720605af378.pdf)
+ 
 
 ### 🎓 Udemy
 
