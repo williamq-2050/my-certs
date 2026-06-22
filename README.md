@@ -9,12 +9,16 @@ This repository serves as a centralized portfolio for my continuous professional
 ### 🎓 Pluralsight
 *   **Advanced Terraform with AWS** 
     *   *Completed:* June 7, 2026 | [View Certificate](./pluralsight/a9168282-04a6-4524-839b-89d067f2536c.pdf)
+*   **Getting Started with Apache Kafka** 
+    *   *Completed:* April 26, 2026 | [View Certificate](./pluralsight/ae68b38e-d7fb-4049-9cdb-187fad24e1f7.pdf)
 *   **Advanced AI-assisted Development** 
     *   *Completed:* April 22, 2026 | [View Certificate](./pluralsight/abc09662-ba46-4266-9dd1-40ebc4d4d67b.pdf)
 *   **Operating Secure, Observable, and Cost-efficient AWS Data Pipelines** 
     *   *Completed:* April 5, 2026 | [View Certificate](./pluralsight/85b96c7b-3d42-4060-82d8-7defc58bc1b8.pdf)
 *   **Getting Started with Data Architecture for Managing Data Products** 
     *   *Completed:* March 25, 2026 | [View Certificate](./pluralsight/0d79bba1-1bb7-4a07-bb6f-a57b03f138a6.pdf)
+*   **Up and Running with Apache Kafka** 
+    *   *Completed:* March 19, 2026 | [View Certificate](./pluralsight/6c5d55db-356c-498f-97e9-68b4a0ba3d22.pdf)
 *   **Designing Event-driven Applications Using Apache Kafka Ecosystem** 
     *   *Completed:* March 21, 2026 | [View Certificate](./pluralsight/c05073a8-ef54-4354-a895-e561fdb428b3.pdf)
 *   **Building, Deploying, and Monitoring Your First Apache NiFi Dataflow** 
