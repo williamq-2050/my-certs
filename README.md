@@ -15,6 +15,8 @@ This repository serves as a centralized portfolio for my continuous professional
     *   *Completed:* April 5, 2026 | [View Certificate](./pluralsight/85b96c7b-3d42-4060-82d8-7defc58bc1b8.pdf)
 *   **Getting Started with Data Architecture for Managing Data Products** 
     *   *Completed:* March 25, 2026 | [View Certificate](./pluralsight/0d79bba1-1bb7-4a07-bb6f-a57b03f138a6.pdf)
+*   **Up and Running with Apache Kafka** 
+    *   *Completed:* March 19, 2026 | [View Certificate](./pluralsight/6c5d55db-356c-498f-97e9-68b4a0ba3d22.pdf)
 *   **Designing Event-driven Applications Using Apache Kafka Ecosystem** 
     *   *Completed:* March 21, 2026 | [View Certificate](./pluralsight/c05073a8-ef54-4354-a895-e561fdb428b3.pdf)
 *   **Building, Deploying, and Monitoring Your First Apache NiFi Dataflow** 
@@ -47,6 +49,8 @@ This repository serves as a centralized portfolio for my continuous professional
     *   *Completed:* June 8, 2025 | [View Certificate](./pluralsight/78af0b99-5cc9-4435-bfcc-199e171e0644.pdf)
 *   **Development Environments and Package Management in Python 3** 
     *   *Completed:* May 31, 2025 | [View Certificate](./pluralsight/d11cbf83-a15f-4130-b957-61bff3389366.pdf)
+*   **Getting Started with Apache Kafka** 
+    *   *Completed:* April 26, 2025 | [View Certificate](./pluralsight/ae68b38e-d7fb-4049-9cdb-187fad24e1f7.pdf)
 *   **Kafka Connect Fundamentals** 
     *   *Completed:* April 21, 2025 | [View Certificate](./pluralsight/2a1e7bd6-9bf5-4bf1-b786-be3a4d95c096.pdf)
 *   **AWS Certified Data Engineer - Associate (DEA-C01): Data Security and Governance** 
