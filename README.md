@@ -9,8 +9,6 @@ This repository serves as a centralized portfolio for my continuous professional
 ### 🎓 Pluralsight
 *   **Advanced Terraform with AWS** 
     *   *Completed:* June 7, 2026 | [View Certificate](./pluralsight/a9168282-04a6-4524-839b-89d067f2536c.pdf)
-*   **Getting Started with Apache Kafka** 
-    *   *Completed:* April 26, 2026 | [View Certificate](./pluralsight/ae68b38e-d7fb-4049-9cdb-187fad24e1f7.pdf)
 *   **Advanced AI-assisted Development** 
     *   *Completed:* April 22, 2026 | [View Certificate](./pluralsight/abc09662-ba46-4266-9dd1-40ebc4d4d67b.pdf)
 *   **Operating Secure, Observable, and Cost-efficient AWS Data Pipelines** 
@@ -51,6 +49,8 @@ This repository serves as a centralized portfolio for my continuous professional
     *   *Completed:* June 8, 2025 | [View Certificate](./pluralsight/78af0b99-5cc9-4435-bfcc-199e171e0644.pdf)
 *   **Development Environments and Package Management in Python 3** 
     *   *Completed:* May 31, 2025 | [View Certificate](./pluralsight/d11cbf83-a15f-4130-b957-61bff3389366.pdf)
+*   **Getting Started with Apache Kafka** 
+    *   *Completed:* April 26, 2025 | [View Certificate](./pluralsight/ae68b38e-d7fb-4049-9cdb-187fad24e1f7.pdf)
 *   **Kafka Connect Fundamentals** 
     *   *Completed:* April 21, 2025 | [View Certificate](./pluralsight/2a1e7bd6-9bf5-4bf1-b786-be3a4d95c096.pdf)
 *   **AWS Certified Data Engineer - Associate (DEA-C01): Data Security and Governance** 
